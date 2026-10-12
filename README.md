@@ -1,10 +1,10 @@
 ## 정문기 · Data / ML
 
-경희대학교 빅데이터응용학과에서 데이터 분석과 머신러닝을 공부하고 있습니다.
+경희대학교 빅데이터응용학과 3학년 2학기에 재학 중이며, 데이터 분석과 머신러닝을 공부하고 있습니다.
 정형 데이터에서 문제를 정의하고, 검증 설계를 세우고, 결과를 의사결정 언어로 번역하는 일을 좋아합니다.
 
-**Python** (pandas, scikit-learn, PyTorch, PyTorch Geometric) · **R** · **SQL** (SQLD) · **Tableau**
-LightGBM · XGBoost · RGCN · SBERT · OLS 회귀
+**Python** · **R** · **SQL** (SQLD) · **Tableau**
+PyTorch · PyTorch Geometric · LightGBM · XGBoost · RGCN · SBERT · OLS 회귀
 
 ---
 
@@ -19,4 +19,4 @@ LightGBM · XGBoost · RGCN · SBERT · OLS 회귀
 
 ---
 
-📫 jj3736jjj@gmail.com
+📫 jj3736jjj@naver.com · [github.com/jj3736123](https://github.com/jj3736123)
